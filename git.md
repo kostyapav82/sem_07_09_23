@@ -5,3 +5,5 @@
 выавыаыв
 
 new line
+
+git diff
