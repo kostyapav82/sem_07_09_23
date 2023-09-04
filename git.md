@@ -6,4 +6,8 @@
 
 new line
 
-git diff
+git diff - lkdjsflkjdfk;vndvnon
+
+# - 
+
+дополнение на ветке1
